@@ -48,9 +48,3 @@ python developer.py
 
 📬 Connect with Me
 📧 akhileshnuthalapati7@gmail.com
-
-🌐 GitHub
-
-💼 LinkedIn
-
-📸 Instagram
