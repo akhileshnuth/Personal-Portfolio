@@ -2,6 +2,7 @@
 A modern and interactive desktop-based developer portfolio built using Python's Tkinter framework. This app acts as a personal portfolio to showcase projects, contact information, and social profiles — all inside a visually pleasing GUI.
 
 Features
+
 🌙 Dark/Light Mode Toggle
 
 🧭 Navigation menu (HOME, ABOUT, CONTACT, PROJECTS)
@@ -29,15 +30,6 @@ Tkinter for GUI
 PIL (Pillow) for image handling
 
 Webbrowser & Subprocess for external navigation
-
-OOP Design for clean modular code
-
-📂 How to Run
-bash
-Copy
-Edit
-# Clone the repo
-git clone https://github.com/yourusername/developer-portfolio-gui.git
 
 # Navigate to the directory
 cd developer-portfolio-gui
